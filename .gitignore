@@ -1,0 +1,6 @@
+.cake/
+build/
+classes/
+lib/
+pom.xml
+scratch
